@@ -7,7 +7,7 @@
 <h3 align="center">React Developer • UI Enthusiast • Frontend Craftsman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+React+interfaces;Crafting+clean+and+dynamic+UIs;Exploring+Node.js+and+MySQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Building+modern+React+interfaces;Crafting+clean+and+dynamic+UIs;" />
 </p>
 
 ---
@@ -18,7 +18,6 @@
 
 🛠 Currently working on:
 - Enhancing **React animations** & UI transitions  
-- Learning **Node.js** and **MySQL**  
 - Building a **modern developer portfolio**
 
 ---
