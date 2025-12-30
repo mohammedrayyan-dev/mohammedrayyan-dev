@@ -15,7 +15,7 @@
 ### 🔹 **Lulu Furniture — Modern Responsive UI**
 A clean, modern furniture brand interface with responsive layouts and structured React components.  
 **Tech:** React, Tailwind CSS  
-📂 Repo: *(coming soon)*  
+📂 Repo: https://github.com/mohammedrayyan-dev/LuluFurnitures.git
 
 ---
 
