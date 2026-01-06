@@ -3,7 +3,7 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mui,vite,git,github,vscode,figma" />
 </p>
@@ -12,28 +12,29 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 **Lulu Furniture — Modern Responsive UI**
-A clean, modern furniture brand interface with responsive layouts and structured React components.  
-**Tech:** React, Tailwind CSS  
-📂 Repo: https://github.com/mohammedrayyan-dev/Lulu-Furniture.git
+### 🔹 **Lulu Furniture — Client Project**
+A production-ready, responsive furniture business website developed for a real client using React and Tailwind CSS.  
+Focused on clean component architecture, responsiveness, performance, and deployment.
 
----
-
-### 🔹 **Qwest — To-Do Manager**
-A minimal, fast task manager with a clean UI and smooth interactions.  
-**Tech:** React, Tailwind CSS  
-📂 Repo: Coming Soon 
+📂 Repo: https://github.com/mohammedrayyan-dev/Lulu-Furniture
 
 ---
 
 ### 🔹 **Profina — Profile Editor UI**
-A modern user profile editor interface with editable fields and clean layout.  
-**Tech:** React, Material UI  
-🔗 Repo: https://github.com/mohammedrayyan-dev/Profina  
+A modern user profile editor interface with editable fields and a clean Material UI-based layout.
+
+📂 Repo: https://github.com/mohammedrayyan-dev/Profina
 
 ---
 
-## 🌐 Connect  
+## 🛠️ Ongoing & Upcoming Work
+
+- **Toco’s Arachnids** — Client website development (frontend implementation in progress)
+- **Personal Project (Planned)** — A scalable dashboard-style web app focused on real-world frontend architecture and UX
+
+---
+
+## 🌐 Connect
 <p align="center">
   <a href="https://linkedin.com/in/mohammedrayyan-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
