@@ -22,7 +22,7 @@ A clean, modern furniture brand interface with responsive layouts and structured
 ### 🔹 **Qwest — To-Do Manager**
 A minimal, fast task manager with a clean UI and smooth interactions.  
 **Tech:** React, Tailwind CSS  
-🔗 Repo: https://github.com/mohammedrayyan-dev/Qwest  
+📂 Repo: Coming Soon 
 
 ---
 
