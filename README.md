@@ -12,6 +12,13 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 **Qwest — Todo App**
+A modern Todo App with user authentication. Users can sign up, log in, and manage their tasks efficiently.
+
+📂 Repo: https://github.com/mohammedrayyan-dev/Qwest
+
+---
+
 ### 🔹 **Lulu Furniture — Client Project**
 A production-ready, responsive furniture business website developed for a real client using React and Tailwind CSS.  
 Focused on clean component architecture, responsiveness, performance, and deployment.
